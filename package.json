@@ -1,0 +1,22 @@
+{
+  "name": "@ikalp/dairymilk",
+  "version": "1.1.0",
+  "description": "Simple & Compact videoref ui component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikalpui/dairymilk.git"
+  },
+  "keywords": [
+    "dairymilk"
+  ],
+  "author": "Kalp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikalpui/dairymilk/issues"
+  },
+  "homepage": "https://github.com/ikalpui/dairymilk#readme"
+}
